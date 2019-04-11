@@ -1,0 +1,43 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.right-top{
+	width: 1200px;
+	margin: 0px auto;
+	display: flex;
+	justify-content: space-between;
+	text-indent: 38px;
+	height: 74px;
+}
+.tops{
+	margin-top: 24px;
+	height: 74px;
+	background-image:url(../../YUGAO/img/c_03.png) ;
+	background-repeat: no-repeat;
+}
+.mainin{
+	margin-top: 30px;
+	width: 1200px;
+	margin: 0px auto;
+}
+.wudi ul{
+	display: flex;
+	justify-content: space-around;
+}
+.wudi li{
+	height: 233px;
+	width: 222px;
+	background-color: #e5e5e5;
+	list-style: none;
+}
+.data{
+	border: white solid 1px;
+	width: 65px;
+	height: 68px;
+	background-color: #8e8e8e;
+}
+.rig-b{
+	text-align: center;
+	line-height: 109px;
+}

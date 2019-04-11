@@ -1,0 +1,33 @@
+*{
+	padding: 0px ;
+	margin: 0px;
+}
+.baby{
+	height: 295px;
+	width: 210px;
+	background-color: #f5f5f5;
+	margin-right: 40px;
+	float: left;
+}
+.baby p{
+	margin-left: 10px;
+}
+.clear{
+	margin-top: 30px;
+}
+.rig-main{
+	/*display: flex;
+	justify-content: space-between;*/
+}
+.sss span{
+	display: inline-block; 
+	height: 24px;
+	width: 84px;
+	 border: #008CD7 solid 1px;
+	 font-size: 10px;
+	 color: white;
+	 line-height: 24px;
+	 background-color: #f29000;
+	 text-align: center;
+	 margin-top: 14px;
+}

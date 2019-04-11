@@ -1,0 +1,72 @@
+{
+	margin: 0px ;
+	padding: 0px ;
+}
+.top{
+	width: 1200px;
+	height: 96px;
+	margin: 0px auto;
+}
+.clear:after{
+	content: ".";
+	clear: both;
+	visibility: hidden;
+	display: block;
+	height: 0px;
+}
+.top-1{
+	height: 96px;
+	display: flex;
+	justify-content: space-between;
+}
+.top-1 li{
+	list-style: none;
+}
+.fr:hover{
+	cursor: pointer;
+}
+.fr a{
+	text-decoration: none;
+	font-size: 16px;
+	font-family: "宋体";
+	color: #f5930a;
+	font-weight: bold;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+.sec a{
+	text-decoration: none;
+	font-size: 14px;
+	color:#666666;
+}
+.sec a:hover{
+	color: red;
+}
+.top-2{
+	width: 100%;
+	height: 600px;
+	background-image: url(../img/yyy.png);
+}
+.gation{
+	width: 100%;
+	height: 60px;
+	background-image: url(../img/yjk_00_03.png);
+	opacity: 0.6;
+}
+.gation ul{
+	width: 1200px;
+	height: 60px;
+	margin: 0px auto;
+	display: flex;
+	justify-content: space-around;
+}
+.gation li{
+	line-height: 50px;
+	list-style: none;
+}
+.gation a{
+	text-decoration: none;
+	color: #038dd8;
+}
+

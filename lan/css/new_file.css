@@ -1,0 +1,11 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.lan{
+	width: 1200px;
+	margin: 0px auto;
+	border: #A1A1A1 solid 1px;
+	border-radius:15px ;
+	margin-bottom: 80px;
+}

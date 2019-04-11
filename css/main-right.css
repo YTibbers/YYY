@@ -1,0 +1,32 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.right-top{
+	display: flex;
+	justify-content: space-between;
+	text-indent: 38px;
+	height: 74px;
+}
+.tops{
+	margin-top: 24px;
+	height: 74px;
+	background-image: url(../news/img/e_03.png);
+	background-repeat: no-repeat;
+}
+.top-3{
+	text-indent: 270px;
+	height: 127px;
+	background-image: url(../news/img/top_07.png);
+	background-repeat: no-repeat;
+}
+.data{
+	border: white solid 1px;
+	width: 65px;
+	height: 68px;
+	background-color: #8e8e8e;
+}
+.rig-b{
+	text-align: center;
+	line-height: 109px;
+}
